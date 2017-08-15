@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "The author's dogs"
+date:   2016-09-17 23:34:56 +0530
+---
+
+dog images
