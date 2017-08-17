@@ -4,4 +4,4 @@ layout: post
 permalink: /price/
 ---
 
-<div>{% include subscription-form.html %}</div>
+{% include subscription-form.html %}
