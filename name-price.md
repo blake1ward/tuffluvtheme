@@ -3,8 +3,13 @@ title: Name your price
 layout: post
 permalink: /price/
 ---
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Creepster');
+</style> 
+</head>
 
-<h3>Coming soon!</h3>
+<h2>Coming soon!</h2>
 An Ebook version of Tuff Luv will be available for name-your-own-price during mid-September.
 
 Meanwhile, enter you email below and hit ENTER for a free .pdf or ebook version of the book as soon as it is ready. I just want to share this book with you :-)
