@@ -4,6 +4,6 @@ title:  "The author's dogs"
 date:   2030-01-01 23:34:56 +0530
 ---
 
-<img src="/tuffluvtheme/images/mydog1.jpg" alt="mydog1" height="50%" width="50%">
-<img src="/tuffluvtheme/images/mydog2.jpg" alt="mydog2" height="50%" width="50%">
-<img src="/tuffluvtheme/images/mydog3.jpg" alt="mydog3" height="50%" width="50%">
+<img src="/tuffluvtheme/images/mydog1.jpg" alt="mydog1" height="30%" width="30%">
+<img src="/tuffluvtheme/images/mydog2.jpg" alt="mydog2" height="30%" width="30%">
+<img src="/tuffluvtheme/images/mydog3.jpg" alt="mydog3" height="30%" width="30%">
