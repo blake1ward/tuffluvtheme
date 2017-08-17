@@ -1,10 +1,10 @@
 ---
-title: Name your own price
+title: Name your price
 layout: post
 permalink: /price/
 ---
-<body>
+<head>
 
 {& include subscription-form.html %}
 
-</body>
+</head>
