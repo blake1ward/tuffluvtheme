@@ -9,4 +9,4 @@ published: true
 
 Tuff Luv will most likely be available on Amazon mid-September.
 
-Meanwhile, send me an email for a FREE pdf copy while you wait: blake1ward@gmail.com 
+Meanwhile, send me an email for a pdf copy while you wait: blake1ward@gmail.com 
