@@ -3,8 +3,13 @@ title: Etsy
 layout: post
 permalink: /etsy/
 ---
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Creepster');
+</style> 
+</head>
 
-<h3>COMING SOON!</h3>
+<h2>COMING SOON!</h2>
 
 An Ebook version of Tuff Luv will be available on Etsy during mid-September.
 
