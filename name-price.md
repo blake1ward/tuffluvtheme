@@ -9,5 +9,3 @@ permalink: /price/
 Tuff Luv will most likely be available for name-your-own-price mid-September.
 
 Meanwhile, send me an email for a pdf copy while you wait: blake1ward@gmail.com 
-
-<div>{% include newsletter.html %}</div>
