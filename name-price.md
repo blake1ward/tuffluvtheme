@@ -4,12 +4,6 @@ layout: post
 permalink: /price/
 ---
 
-<style>
-.h3 {
-color: DarkGreen
-}
-</style>
-
 <h3>Coming soon!</h3>
 An Ebook version of Tuff Luv will be available for name-your-own-price during mid-September.
 
