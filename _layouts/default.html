@@ -4,6 +4,7 @@ layout: compress
 <!DOCTYPE html>
 <html>
 <head>
+  <div>{% include image.html file="tuff.png" alt="Tuff Luv by Blake Ward" %}</div>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -18,7 +19,7 @@ layout: compress
   </header>
 
   {{ content }}
-<div>{% include image.html file="tuff.png" alt="Tuff Luv by Blake Ward" %}</div>
+
 <footer>
 
     <div class="links">
