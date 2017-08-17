@@ -1,9 +1,11 @@
 ---
 title: Contact
 layout: post
-permalink: /contact/
+permalink: /price/
 ---
 
-May be a contact form.
+<h3>COMING SOON!</h3>
 
-Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
+Tuff Luv will most likely be available for name-your-own-price mid-September.
+
+Meanwhile, send me an email for a pdf copy while you wait: blake1ward@gmail.com 
