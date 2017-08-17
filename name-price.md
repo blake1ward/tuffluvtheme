@@ -3,10 +3,10 @@ title: Name your price
 layout: post
 permalink: /price/
 ---
-<head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-</head>
 
+Tuff Luv will be available for name-your-own-price during mid-September.
+
+Meanwhile, enter you email below and hit ENTER for a free .pdf or ebook version of the book as soon as it is ready. I just want to share this book with you :-)
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
