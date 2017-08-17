@@ -4,8 +4,13 @@ layout: post
 permalink: /amazon/
 published: true
 ---
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Creepster');
+</style> 
+</head>
 
-<h3>COMING SOON!</h3>
+<h2>COMING SOON!</h2>
 
 An Ebook version of Tuff Luv will be available on Amazon during mid-September.
 
