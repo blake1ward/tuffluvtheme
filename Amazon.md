@@ -14,7 +14,7 @@ published: true
 
 Tuff Luv will be available on Amazon during mid-September!
 
-Enter you email below and hit ENTER and I'll send you an announcement the moment it is released. 
+Enter your email below and hit ENTER and I'll send you an announcement the moment it is released. 
 
 :-)
 
