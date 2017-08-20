@@ -12,9 +12,11 @@ published: true
 
 <h2>COMING SOON!</h2>
 
-An Ebook version of Tuff Luv will be available on Amazon during mid-September.
+Tuff Luv will be available on Amazon during mid-September.
 
-Meanwhile, enter you email below and hit ENTER for a free .pdf or ebook version of the book as soon as it is ready. I just want to share this book with you :-)
+Enter you email below and hit ENTER, I'll send you an announcement the moment it is released. 
+
+:-)
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
