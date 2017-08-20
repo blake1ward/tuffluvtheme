@@ -9,10 +9,13 @@ permalink: /price/
 </style> 
 </head>
 
-<h2>Coming soon!</h2>
-An Ebook version of Tuff Luv will be available for name-your-own-price during mid-September.
+<h2>COMING SOON!</h2>
 
-Meanwhile, enter you email below and hit ENTER for a free .pdf or ebook version of the book as soon as it is ready. I just want to share this book with you :-)
+An eBook version of Tuff Luv will be available for name-your-own-price during mid-September!
+
+Enter your email below and hit ENTER and I'll send you an announcement the moment it is released. 
+
+:-)
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
