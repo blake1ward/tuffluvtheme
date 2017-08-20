@@ -12,9 +12,9 @@ published: true
 
 <h2>COMING SOON!</h2>
 
-Tuff Luv will be available on Amazon during mid-September.
+Tuff Luv will be available on Amazon during mid-September!
 
-Enter you email below and hit ENTER, I'll send you an announcement the moment it is released. 
+Enter you email below and hit ENTER and I'll send you an announcement the moment it is released. 
 
 :-)
 
